@@ -361,6 +361,10 @@
                     "name": "gemini-1.5-flash-latest"
                 },
                 {
+                    "label": "gemini-1.5-pro-exp-0801",
+                    "name": "gemini-1.5-pro-exp-0801"
+                },                
+                {
                     "label": "gemini-1.5-pro-latest",
                     "name": "gemini-1.5-pro-latest"
                 },
