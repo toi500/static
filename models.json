@@ -221,6 +221,10 @@
             "name": "azureChatOpenAI",
             "models": [
                 {
+                    "label": "gpt-4o-mini",
+                    "name": "gpt-4o-mini"
+                },
+                {
                     "label": "gpt-4o",
                     "name": "gpt-4o"
                 },
@@ -249,6 +253,10 @@
         {
             "name": "azureChatOpenAI_LlamaIndex",
             "models": [
+                {
+                    "label": "gpt-4o-mini",
+                    "name": "gpt-4o-mini"
+                },
                 {
                     "label": "gpt-4o",
                     "name": "gpt-4o"
@@ -361,12 +369,16 @@
                     "name": "gemini-1.5-flash-latest"
                 },
                 {
-                    "label": "gemini-1.5-pro-exp-0801",
-                    "name": "gemini-1.5-pro-exp-0801"
-                },                
+                    "label": "gemini-1.5-flash-002",
+                    "name": "gemini-1.5-flash-002"
+                },
                 {
                     "label": "gemini-1.5-pro-latest",
                     "name": "gemini-1.5-pro-latest"
+                },
+                   {
+                    "label": "gemini-1.5-pro-002",
+                    "name": "gemini-1.5-pro-002"
                 },
                 {
                     "label": "gemini-pro",
@@ -427,6 +439,22 @@
         {
             "name": "groqChat",
             "models": [
+                {
+                    "label": "llama-3.2-1b-preview",
+                    "name": "llama-3.2-1b-preview"
+                },
+                {
+                    "label": "llama-3.2-3b-preview",
+                    "name": "llama-3.2-3b-preview"
+                },
+                {
+                    "label": "llama-3.2-11b-text-preview",
+                    "name": "llama-3.2-11b-text-preview"
+                },
+                {
+                    "label": "llama-3.2-90b-text-preview",
+                    "name": "llama-3.2-90b-text-preview"
+                },
                 {
                     "label": "llama-3.1-405b-reasoning",
                     "name": "llama-3.1-405b-reasoning"
@@ -500,6 +528,22 @@
                 {
                     "label": "gpt-4o-2024-05-13",
                     "name": "gpt-4o-2024-05-13"
+                },
+                {
+                    "label": "o1-preview (latest)",
+                    "name": "o1-preview"
+                },
+                {
+                    "label": "o1-preview-2024-09-12",
+                    "name": "o1-preview-2024-09-12"
+                },
+                {
+                    "label": "o1-mini (latest)",
+                    "name": "o1-mini"
+                },
+                {
+                    "label": "o1-mini-2024-09-12",
+                    "name": "o1-mini-2024-09-12"
                 },
                 {
                     "label": "gpt-4 (latest)",
